@@ -1,8 +1,6 @@
 # 100-Programming-Questions
 A collection of 100 programming questions solved in Python, covering basic to intermediate concepts with clean code and explanations.
 
-# 100 Programming Questions
-
 This repository contains **100 programming questions and solutions implemented in Python**. The goal of this project is to strengthen problem-solving skills, improve coding logic, and build consistency through daily practice.
 
 ## Topics Covered
