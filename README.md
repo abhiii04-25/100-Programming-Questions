@@ -3,7 +3,7 @@ A collection of 100 programming questions solved in Python, covering basic to in
 
 This repository contains **100 programming questions and solutions implemented in Python**. The goal of this project is to strengthen problem-solving skills, improve coding logic, and build consistency through daily practice.
 
-## Topics Covered
+## Topics Covered.
 
 * Variables and Data Types
 * Conditional Statements
